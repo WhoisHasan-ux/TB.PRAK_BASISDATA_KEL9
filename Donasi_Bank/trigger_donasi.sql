@@ -9,4 +9,3 @@ BEGIN
 END$$
 DELIMITER ;
 
--- (Opsional) Jika ingin trigger lain, silakan informasikan.
